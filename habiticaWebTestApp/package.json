@@ -1,0 +1,31 @@
+{
+  "name": "habiticawebtestapp",
+  "version": "1.0.0",
+  "description": "App to test habitica web",
+  "main": "/test/test_spec.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miso4208-pruebas-automaticas/Test_Habitica_web.git"
+  },
+  "keywords": [
+    "Cypress",
+    "-",
+    "Protractor",
+    "-",
+    "HabiticaWeb",
+    "-",
+    "Testing"
+  ],
+  "author": "G6- Hngover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miso4208-pruebas-automaticas/Test_Habitica_web/issues"
+  },
+  "homepage": "https://github.com/miso4208-pruebas-automaticas/Test_Habitica_web#readme",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
