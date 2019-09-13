@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+*.env
+
+#folders and files
+/docs
+/Habitica Movil
+*.jpg
+
+# next.js build output
+.next
+.DS_Store
+config/config.json
+front/package-lock.json
+package-lock.json
